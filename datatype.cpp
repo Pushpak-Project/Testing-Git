@@ -18,6 +18,7 @@ int main()
     // Hey this is for test 
 
     cout<<a<<endl;
+    // Displaying the output
     cout<<b<<endl;
     cout<<setprecision(10)<<c<<endl;
     cout<<setprecision(16)<<d<<endl;
