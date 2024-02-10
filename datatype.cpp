@@ -1,4 +1,3 @@
-// These are imports
 #include <iostream>
 #include <iomanip>
 #include<limits>
@@ -15,10 +14,8 @@ int main()
     long double d = 457.247456455315648453324L; // 18 signi digits
 
     // cout gives 6 signi digits
-    // Hey this is for test 
 
     cout<<a<<endl;
-    // Displaying the output
     cout<<b<<endl;
     cout<<setprecision(10)<<c<<endl;
     cout<<setprecision(16)<<d<<endl;
